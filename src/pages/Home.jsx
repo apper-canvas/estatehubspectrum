@@ -54,7 +54,7 @@ const Home = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-primary to-secondary rounded-xl flex items-center justify-center">
               <ApperIcon name="Home" className="h-6 w-6 text-white" />
             </div>
-            <span className="text-xl sm:text-2xl font-bold text-gradient">EstateHub 1</span>
+            <span className="text-xl sm:text-2xl font-bold text-gradient">EstateHub 2</span>
           </motion.div>
           
           <motion.button
